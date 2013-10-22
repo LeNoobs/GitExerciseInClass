@@ -18,4 +18,9 @@ Rocky
 Pocahontas II
 Lord of the rings
 Shake it!
+<<<<<<< HEAD
 Notebook
+=======
+The Notebook
+Edward Scissorhands
+>>>>>>> master-blindu
