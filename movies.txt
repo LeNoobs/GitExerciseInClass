@@ -15,4 +15,8 @@ Toy Story 2
 Dallas does Dallas
 =======
 Pocahontas II
+<<<<<<< HEAD
+>>>>>>> bjarni
+=======
+Lord of the rings
 >>>>>>> bjarni
