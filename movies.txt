@@ -4,3 +4,6 @@ V for Vendetta
 Django
 Star Wars The Empire Strikes Back
 The Big Lebowski
+Aladdin
+Lion King
+Pocahontas
