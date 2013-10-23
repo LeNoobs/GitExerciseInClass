@@ -13,9 +13,14 @@ Debbie does Dallas
 Toy Story
 Toy Story 2
 Dallas does Dallas
+<<<<<<< HEAD
 The Rock
 Rocky
 Pocahontas II
 Lord of the rings
 Shake it!
 The Notebook
+=======
+Strumparnir 2
+Once upon a time in America
+>>>>>>> 97966ec37fae801d1ac49e0f282abd921bc40fae
